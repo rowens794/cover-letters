@@ -1,0 +1,8 @@
+I've brainstormed ideas for an outline of a blog post that I am writing for a customer of mine. I would like to know if there are any improvements I could make to the list of sections in my article outline.
+
+REQUEST: <<BRIEF>>
+
+OUTLINE: <<OUTLINE>>
+
+Brainstorm possible improvements to this outline:
+1.

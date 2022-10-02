@@ -1,0 +1,1 @@
+I need to generate a catchy blog title for an article I'm writing.  The brief for the article is: "<<BRIEF>>"

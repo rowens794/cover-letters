@@ -1,0 +1,4 @@
+I am writing a section of a blog post for a client. The section that I am writing is titled: <<SECTION_TITLE>>.
+
+Before I write the text of the section I need to produce detailed research notes specifically for the section titled <<SECTION_TITLE>>.  Below is a long list of my detail research notes:
+-

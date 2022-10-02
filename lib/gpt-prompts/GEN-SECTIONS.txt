@@ -1,0 +1,8 @@
+I need to write an entertaining and engaging blog post based on the following request from a customer.
+
+REQUEST: <<BRIEF>>
+
+Brainstorm a list of sections for this blog post.  The output section headings should meet the customer's request and be highly descriptive.
+
+SECTIONS:
+1.
